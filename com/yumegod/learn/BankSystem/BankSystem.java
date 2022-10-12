@@ -57,7 +57,7 @@ public class BankSystem {
             //初始化变量(方便赋值)
             String inputCommand;
 
-            System.out.println("[Adjust prefix] Start reading commands now!");
+            System.out.println("[Command] Start reading commands now!");
 
             //Start listening for command input
             while(true){
