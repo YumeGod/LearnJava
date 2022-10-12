@@ -1,9 +1,9 @@
 package com.yumegod.learn.BankSystem;
 
 public class User {
-    private String username = null;
-    private String password = null;
-    private long balance = 0;
+    private String username;
+    private String password;
+    private long balance;
 
     public User(String username, String password, long balance){
         this.username = username;
